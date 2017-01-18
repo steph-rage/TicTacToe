@@ -10,10 +10,10 @@ This program uses Python 3, so that's what you'll need to have installed on your
 
 You have two options to run:
 
->> python3 TicTacToe.py 
+		python3 TicTacToe.py 
 		
-		will run the game for two players to play against each other. 
+will run the game for two players to play against each other. 
 
->> python3 TicTacComputer.py
+		python3 TicTacComputer.py
 
-		will run the game for one player to play against the computer.
+will run the game for one player to play against the computer.
